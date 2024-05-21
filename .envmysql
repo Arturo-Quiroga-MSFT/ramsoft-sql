@@ -1,0 +1,9 @@
+AZURE_OPENAI_ENDPOINT = "https://aq-aoaieastus.openai.azure.com/"
+AZURE_OPENAI_API_KEY = "1879f55b472d45b880a47920f42de0bb"
+OPENAI_CHAT_MODEL = "gpt-4"
+OPENAI_API_TYPE = "azure"
+OPENAI_API_VERSION = "2024-02-01"
+MYSQL_SERVER = "aqmyslqsvr001.mysql.database.azure.com"
+MYSQL_DB = "hospitaldb"
+MYSQL_USERNAME = "arturoqu"
+MYSQL_PWD = '@DoNotTryThis.1970!'
